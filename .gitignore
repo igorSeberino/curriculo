@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Cache do Tailwind CLI (opcional)
+.tailwind-cache/
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Ignorar sourcemaps (se não for usar)
+*.css.map
