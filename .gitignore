@@ -22,3 +22,7 @@ Thumbs.db
 
 # Ignorar sourcemaps (se não for usar)
 *.css.map
+
+# Arquivos de código desnecessários
+build-tailwind.js
+tailwind.config.js
